@@ -1,6 +1,5 @@
-## Hi there 👋
 
-<!--# 💫 About Me:
+# 💫 About Me:
 About Me:<br><br>👋 Hello World! I'm a Python Full Stack Developer<br>🎯 Passionate Python Developer | 🧩 Creative Problem Solver | 🚀 Lifelong Learner<br>🖥️ I love turning ideas into functional and user-friendly web applications<br>⚡ Specializing in Python, Django, HTML, CSS, JavaScript, and Bootstrap<br>🧠 Exploring React, REST APIs, and full-stack development<br>💬 Always ready to talk about Python, Django, web development, and coding<br>🌱 Building responsive, dynamic, and real-world web applications<br>📚 Continuously learning new technologies and improving my problem-solving skills<br>✨ Let's build something amazing together!
 
 
@@ -24,11 +23,4 @@ About Me:<br><br>👋 Hello World! I'm a Python Full Stack Developer<br>🎯 Pas
 ![](https://github-contributor-stats.vercel.app/api?username=kethan317-create&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=kethan317-create&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://komarev.com/ghpvc/?username=kethan317-create&icon=0&color=0)](https://visitcount.itsvg.in) Proudly created with GPRM ( https://gprm.itsv
